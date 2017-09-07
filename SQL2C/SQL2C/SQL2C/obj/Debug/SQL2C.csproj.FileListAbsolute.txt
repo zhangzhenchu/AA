@@ -1,0 +1,8 @@
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\SQL2C.Form1.resources
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\SQL2C.Properties.Resources.resources
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\SQL2C.csproj.GenerateResource.Cache
+E:\develop\SQL2C\SQL2C\SQL2C\bin\Debug\SQL2C.exe
+E:\develop\SQL2C\SQL2C\SQL2C\bin\Debug\SQL2C.pdb
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\SQL2C.exe
+E:\develop\SQL2C\SQL2C\SQL2C\obj\Debug\SQL2C.pdb

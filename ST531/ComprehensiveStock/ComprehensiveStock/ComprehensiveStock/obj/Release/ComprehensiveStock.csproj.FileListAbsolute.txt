@@ -1,0 +1,9 @@
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\ComprehensiveStock.dll
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\ComprehensiveStock.pdb
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\obj\Release\ResolveAssemblyReference.cache
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\obj\Release\ComprehensiveStock.dll
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\obj\Release\ComprehensiveStock.pdb
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\Microsoft.Vbe.Interop.dll
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\office.dll
+E:\develop\RS\RSERP\ST531\ComprehensiveStock\ComprehensiveStock\ComprehensiveStock\bin\Release\UTLogin.dll

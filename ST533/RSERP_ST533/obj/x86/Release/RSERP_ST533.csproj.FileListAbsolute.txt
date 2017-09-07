@@ -1,0 +1,16 @@
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_ST533.csproj.ResolveComReference.cache
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\RSERP_ST533.exe
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\RSERP_ST533.pdb
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\UTLoginEx.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\Microsoft.Vbe.Interop.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\office.dll
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\ResolveAssemblyReference.cache
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_Template.Form1.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_Template.frmMessege.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_ST533.Properties.Resources.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_ST533.csproj.GenerateResource.Cache
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_ST533.exe
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\RSERP_ST533.pdb
+E:\develop\RS\ST533\RSERP_ST533\obj\x86\Release\Interop.WindowsInstaller.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\x86\Release\Interop.WindowsInstaller.dll

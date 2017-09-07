@@ -1,0 +1,13 @@
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\RSERP_PUR442.exe
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\RSERP_PUR442.pdb
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\office.dll
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\bin\Debug\RSERPLogin.dll
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.Form1.resources
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.frmMessege.resources
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.Properties.Resources.resources
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.csproj.GenerateResource.Cache
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.exe
+E:\develop\RS\RSERP\PUR442\RSERP_PUR442\obj\Debug\RSERP_PUR442.pdb

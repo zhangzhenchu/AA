@@ -1,0 +1,13 @@
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\RSERP_ST532.exe
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\RSERP_ST532.pdb
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\office.dll
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\bin\Debug\RSERPLogin.dll
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.Form1.resources
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.frmMessege.resources
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.Properties.Resources.resources
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.csproj.GenerateResource.Cache
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.exe
+E:\develop\RS\RSERP\ST532\RSERP_ST532\RSERP_ST532\obj\Debug\RSERP_ST532.pdb

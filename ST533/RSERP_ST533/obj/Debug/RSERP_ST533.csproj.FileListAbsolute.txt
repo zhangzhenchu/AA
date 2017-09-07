@@ -1,0 +1,15 @@
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_ST533.csproj.ResolveComReference.cache
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\ResolveAssemblyReference.cache
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_Template.Form1.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_Template.frmMessege.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_ST533.Properties.Resources.resources
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_ST533.csproj.GenerateResource.Cache
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\RSERP_ST533.exe
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\RSERP_ST533.pdb
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\UTLoginEx.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\Microsoft.Vbe.Interop.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\Microsoft.Office.Interop.Excel.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\UTLogin.dll
+E:\develop\RS\ST533\RSERP_ST533\bin\Debug\office.dll
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_ST533.exe
+E:\develop\RS\ST533\RSERP_ST533\obj\Debug\RSERP_ST533.pdb
